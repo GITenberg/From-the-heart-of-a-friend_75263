@@ -1,0 +1,27 @@
+_repo: From-the-heart-of-a-friend_75263
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Addingley, Amy
+    gutenberg_agent_id: '57909'
+    url: http://www.gutenberg.org/2009/agents/57909
+description: ''
+gutenberg_issued: '2025-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75263'
+language: en
+pgterms:marc904: https://archive.org/details/FromTheHeartOfAFriend
+pgterms:marc905: 20221120034215addingley
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Platt & Peck Co., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: From the heart of a friend
+url: http://www.gutenberg.org/ebooks/75263
