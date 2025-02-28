@@ -5,7 +5,12 @@ contributor:
     agent_name: Addingley, Amy
     gutenberg_agent_id: '57909'
     url: http://www.gutenberg.org/2009/agents/57909
+covers:
+- cover_type: archival
+  image_path: 75263-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75263#From-the-heart-of-a-friend
 gutenberg_issued: '2025-01-31'
 gutenberg_type: Text
 identifiers:
